@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "SMUV"
+date:   2020-12-12 20:31:56 +0800
+technologies: ReactJS, APIs, Firebase
+---
+# SMUV
+
+### ReactJS, APIs, Firebase
+
+[CLICK TO VIEW DEMO](https://smuv-dating.vercel.app/)
+
+Built a full-stack web application that allows users to find people with similar music tastes; modelled after Tinder
+
+Gained competency in React frontend web development and backend Axios API calls to Firebase and TasteDive; deployed on Vercel

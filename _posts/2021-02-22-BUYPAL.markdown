@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "BUYPAL"
+date:   2021-02-02 20:31:56 +0800
+technologies: "Django, Bootstrap, PostgreSQL	"
+---
+# BUYPAL 
+
+### Django, Bootstrap, PostgreSQL	
+
+[CLICK TO VIEW DEMO](https://buypalapp.herokuapp.com/)
+
+Built an online platform that aims to efficiently organise group bulk buys by allowing users to host and join group buys
+
+Gained working knowledge of Python and Django for relational database (PostgreSQL) connections; utilised Bootstrap framework for frontend; deployed on Heroku

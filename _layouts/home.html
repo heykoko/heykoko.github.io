@@ -36,16 +36,16 @@
 <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="home">
-<h2 class="post-list-heading">Projects</h2>
+<h2 class="post-list-heading">Projects & Technologies</h2>
 {% for post in site.posts %}
 <article class="{% if forloop.first %}first{% elsif forloop.last %}last{% else %}middle{% endif %}">
       <div class="article-head">
-          <h2 class="title"><a href="/{{ post.url }}/" class="js-pjax">{{ post.title }}</a></h2>
+          <h2 class="title"><a href="{{ post.url }}/" class="js-pjax">{{ post.title }}</a></h2>
           <!-- <p class="date">{{ post.date | date: "%b %d, %Y" }}</p> -->
       </div><!--/.article-head-->
       <div class="article-content">
-      {{ post.long_description }}	
-      </div><!--/.article-content-->
+      {{ post.technologies }}	
+      </div><br><!--/.article-content-->
   </article>
   {% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
 {% endfor %}
@@ -64,7 +64,31 @@
           <li class="p-name">Karyn Ho</li><li><a class="u-email" href="mailto:karhosg@gmail.com">karhosg@gmail.com</a></li></ul>
       </div>
 
-      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/heykoko"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#github"></use></svg> <span class="username">heykoko</span></a></li><li><a href="https://www.twitter.com/khittiez"><svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">khittiez</span></a></li></ul>
+      <div class="footer-col footer-col-2">
+          <ul class="social-media-list">
+              <li>
+                  <a href="https://github.com/heykoko">
+                    <svg class="svg-icon">
+                        <use xlink:href="/assets/minima-social-icons.svg#github"></use>
+                    </svg> 
+                    <span class="username">heykoko</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.linkedin.com/in/kho18">
+                    <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#linkedin"></use>
+                    </svg> 
+                    <span class="username">kho18</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://www.twitter.com/khittiez">
+                    <svg class="svg-icon"><use xlink:href="/assets/minima-social-icons.svg#twitter"></use>
+                    </svg> 
+                    <span class="username">khittiez</span>
+                </a>
+            </li>
+        </ul>
 </div>
 
       <div class="footer-col footer-col-3">

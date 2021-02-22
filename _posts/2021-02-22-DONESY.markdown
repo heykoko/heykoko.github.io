@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "DONESY!"
+date:   2021-01-02 20:31:56 +0800
+technologies: MongoDB, Express, NodeJS, ReactJS
+---
+
+# DONESY!
+
+### MongoDB, Express, NodeJS, ReactJS
+
+[CLICK TO VIEW DEMO](https://donesy-mern.herokuapp.com/)
+
+Built a Full-stack MERN(MongoDB, Express, NodeJS, ReactJS) application that allows users to categorise their To-dos
+
+Collaborated with a team to design database and implement RESTful API endpoints on Express for connections to MongoDB
+
+Operated in an agile environment with sprint planning, daily stand ups and continuous integration
