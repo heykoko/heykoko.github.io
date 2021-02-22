@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi I'm Karyn Ho. A Full-Stack Software Developer with a background in Communications. At my previous role, I worked in a dynamic Technology start-up as a payment operations associate where I discovered my curiosity for building software and solving inefficiencies.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Working in an emerging start-up environment at RigUp in Austin, Texas. It was a great experience to be able to work cross functionally with the software engineering, product management, and other operations teams to improve the vendor invoicing portal for a new commercial workflow project. There I saw the importance of developing scalable and efficient software and became committed to learning more about software engineering.
 
 
 [jekyll-organization]: https://github.com/jekyll
