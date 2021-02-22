@@ -6,8 +6,10 @@ technologies: HTML, CSS, JQuery
 ---
 # KAT KAFE
 
-### HTML, CSS, JQuery
+### HTML, CSS, Javascript, JQuery
 
 [CLICK TO VIEW DEMO](https://pages.git.generalassemb.ly/kokocodez/kat-kafe/game.html)
 
-Created a fun game with the above technologies.
+Built a picture-word matching game that takes in a user’s input, processes the data and manipulates the DOM to display the new state of the game to the user
+
+Featured countdown timer, score tracker, interactive UI and sound
