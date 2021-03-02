@@ -9,6 +9,7 @@ technologies: ReactJS, APIs, Firebase
 ### ReactJS, APIs, Firebase
 
 [CLICK TO VIEW DEMO SMUV 1.0](https://smuv-dating.vercel.app/)
+
 [CLICK TO VIEW DEMO SMUV 2.0](https://smuv2-9c0ouiobs-khittiez.vercel.app/)
 
 ABOUT 1.0 - Built a full-stack web application that allows users to find people with similar music tastes; modelled after Tinder
